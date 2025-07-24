@@ -1,1 +1,5 @@
-Oh, My friends, this project is used only for study. Please do NOT do something illegal.
+
+QQ 三国 unity demo工程。
+功能： F2背包UI, F3 技能UI。 
+场景传送巴郡←→巴郡东郊
+点击怪物, 按技能击打产生伤害, 怪物死亡。
